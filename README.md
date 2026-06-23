@@ -42,3 +42,8 @@ python crag_app.py
 GROQ_API_KEY=your_groq_key
 TAVILY_API_KEY=your_tavily_key
 ```
+## Screenshots
+
+### Graph Architecture
+<img width="367" height="433" alt="WhatsApp Image 2026-06-23 at 5 10 39 PM" src="https://github.com/user-attachments/assets/000dc441-b30d-4d7e-8478-234b32375c92" />
+<img width="739" height="793" alt="WhatsApp Image 2026-06-23 at 6 09 49 PM" src="https://github.com/user-attachments/assets/f0f3ae1d-560d-44d4-9231-dbb23fa5dfeb" />
