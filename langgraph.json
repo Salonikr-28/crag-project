@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "crag": "./crag_app.py:app"
+    },
+    "env": ".env"
+}
